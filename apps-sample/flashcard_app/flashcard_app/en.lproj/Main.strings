@@ -1,0 +1,18 @@
+
+/* Class = "UISegmentedControl"; KkG-RS-tFW.segmentTitles[0] = "Question First"; ObjectID = "KkG-RS-tFW"; */
+"KkG-RS-tFW.segmentTitles[0]" = "Question First";
+
+/* Class = "UISegmentedControl"; KkG-RS-tFW.segmentTitles[1] = "Answer First"; ObjectID = "KkG-RS-tFW"; */
+"KkG-RS-tFW.segmentTitles[1]" = "Answer First";
+
+/* Class = "UITextView"; text = "Qestion Here"; ObjectID = "TC9-Pt-e1X"; */
+"TC9-Pt-e1X.text" = "Qestion Here";
+
+/* Class = "UILabel"; text = "Card Content"; ObjectID = "b5m-0K-Hlg"; */
+"b5m-0K-Hlg.text" = "Card Content";
+
+/* Class = "UITextField"; placeholder = "SUBJECT"; ObjectID = "uY3-JR-ke0"; */
+"uY3-JR-ke0.placeholder" = "SUBJECT";
+
+/* Class = "UITextView"; text = "Answer Here"; ObjectID = "zes-pb-hZb"; */
+"zes-pb-hZb.text" = "Answer Here";

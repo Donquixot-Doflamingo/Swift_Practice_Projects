@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jeff Bezos",
+        "number" : "9182665767",
+        "isFavorite": true,
+        "id": 101,
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue  habitasse cubilia ligula penatibus curae.",
+        "imageName": "jeffbezos"
+    },
+    {
+        "name": "Bill Gates",
+        "number": "9182665757",
+        "isFavorite": true,
+        "id": 102,
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue  habitasse cubilia ligula penatibus curae.",
+        "imageName": "billgates"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "number": "9182665453",
+        "isFavorite": false,
+        "id": 103,
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue  habitasse cubilia ligula penatibus curae.",
+        "imageName": "markzuckerberg"
+    },
+    {
+        "name": "Elon Musk",
+        "number": "9182662317",
+        "isFavorite": true,
+        "id": 104,
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue  habitasse cubilia ligula penatibus curae.",
+        "imageName": "elonmusk"
+    },
+    {
+        "name": "Melinda Gates",
+        "number": "9457665757",
+        "isFavorite": false,
+        "id": 105,
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue  habitasse cubilia ligula penatibus curae.",
+        "imageName": "melindagates"
+    }
+]

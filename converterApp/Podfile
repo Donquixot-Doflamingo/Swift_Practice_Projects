@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'converterApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for converterApp
+pod 'DropDown' 
+
+  target 'converterAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'converterAppUITests' do
+    # Pods for testing
+  end
+
+end

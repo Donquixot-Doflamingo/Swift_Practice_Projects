@@ -1,0 +1,6 @@
+framework module Pods_projectAcServiceApp {
+  umbrella header "Pods-projectAcServiceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
